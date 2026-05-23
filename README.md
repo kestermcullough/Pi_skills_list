@@ -4,12 +4,20 @@ My awesome pi skills list
 
 # Extensions (npm)
 
+### Subagents
+
 pi-subagents: https://github.com/nicobailon/pi-subagents
   (which uses pi-intercom)
-  
-pi-web-access or (codex search one? which one to use?)
 
-npm:pi-codex-web-search
+### Web search
+
+This works good enough:
+pi-codex-web-search: [npm:pi-codex-web-search](https://github.com/ayagmar/pi-codex-web-search)
+
+Really nice for search, but needs a bit of setup:
+
+pi-web-access: https://github.com/nicobailon/pi-web-access
+
 
 
 # SKILLS
