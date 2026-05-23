@@ -14,6 +14,7 @@ pi-subagents: https://github.com/nicobailon/pi-subagents
 This works good enough:
 pi-codex-web-search: [npm:pi-codex-web-search](https://github.com/ayagmar/pi-codex-web-search)
 
+
 Really nice for search, but needs a bit of setup:
 
 pi-web-access: https://github.com/nicobailon/pi-web-access
@@ -34,6 +35,7 @@ Browser-harness: https://github.com/browser-use/browser-harness
 
 existing? or create?
 
+### Tufte skill but actually Berkin sill
 
 # AGENTS.MD
 create or edit 
