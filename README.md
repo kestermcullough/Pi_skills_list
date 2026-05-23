@@ -12,6 +12,11 @@ npm:pi-codex-web-search
 
 
 # SKILLS
+
+## SFW for safety
+
+install and run: https://github.com/kestermcullough/pi-socket-sfw
+
 Browser-harness
 
 
