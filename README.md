@@ -3,8 +3,9 @@ My awesome pi skills list
 
 
 # Extensions (npm)
-pi-subagents 
-  which uses pi-intercom
+
+pi-subagents: https://github.com/nicobailon/pi-subagents
+  (which uses pi-intercom)
   
 pi-web-access or (codex search one? which one to use?)
 
@@ -13,30 +14,17 @@ npm:pi-codex-web-search
 
 # SKILLS
 
-## SFW for safety
+### SFW for safety
 
 install and run: https://github.com/kestermcullough/pi-socket-sfw
 
-Browser-harness
+### Browser-harness for browser use
 
+Browser-harness: https://github.com/browser-use/browser-harness
 
+### LLM Wiki skill?
 
-make a skill that does:
-npm i -g sfw
-alias npm="sfw npm"
-alias yarn="sfw yarn"
-alias pnpm="sfw pnpm"
-alias pip="sfw pip"
-alias uv="sfw uv"
-alias cargo="sfw cargo"
-then verify it
-
-
-Karpathy 4 rules plus those 8 more - just add to MD or similar?
-
-
-
-karpathy LLM wiki - turn it into a skill?
+existing? or create?
 
 
 # AGENTS.MD
