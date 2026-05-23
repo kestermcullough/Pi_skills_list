@@ -10,7 +10,6 @@ pi-web-access or (codex search one? which one to use?)
 
 
 
-
 # SKILLS
 Browser-harness
 
@@ -104,6 +103,9 @@ Strong success criteria let you loop independently. Weak criteria ("make it work
 **These guidelines are working if:** fewer unnecessary changes in diffs, fewer rewrites due to overcomplication, and clarifying questions come before implementation rather than after mistakes.
 ```
 
+source:https://github.com/multica-ai/andrej-karpathy-skills
+
+
 The full 12 rules:
 
 ```
@@ -149,7 +151,6 @@ Default to surfacing uncertainty, not hiding it.
 ```
 Sources: 
 
-https://github.com/multica-ai/andrej-karpathy-skills
 
 
 
