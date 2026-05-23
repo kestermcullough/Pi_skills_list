@@ -5,6 +5,7 @@ My awesome pi skills list
 # Extensions (npm)
 pi-subagents 
   which uses pi-intercom
+  
 pi-web-access or (codex search one? which one to use?)
 
 
@@ -26,16 +27,8 @@ alias cargo="sfw cargo"
 then verify it
 
 
-Sub-agents
-  which uses librarian and intercom
-
-
-Pi-web-access
-
-
-
 Karpathy 4 rules plus those 8 more - just add to MD or similar?
 
 
 
-karpathy LLM - turn it into a skill?
+karpathy LLM wiki - turn it into a skill?
