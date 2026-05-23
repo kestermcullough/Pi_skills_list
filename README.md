@@ -35,7 +35,7 @@ Browser-harness: https://github.com/browser-use/browser-harness
 
 existing? or create?
 
-### Tufte skill but actually Berkin sill
+### Tufte skill but actually Bertin skill
 
 # AGENTS.MD
 create or edit 
