@@ -39,6 +39,18 @@ create or edit
 ~/.pi/agent/AGENTS.md
 
 ```
+
+## Python Package Management
+- Default to `uv` for Python package management.
+- Prefer `uv add`, `uv sync`, `uv run`, and `uv tool` in `uv`-managed projects.
+- If a pip-style install is needed, use `uv pip` instead of plain `pip`.
+- Do not use `pip install`, `python -m pip`, `poetry`, or `pipenv` unless the user explicitly asks for them or the project already requires them.
+- Respect the user-level package age policy configured on the machine.
+
+```
+
+
+```
 Behavioral guidelines to reduce common LLM coding mistakes. Merge with project-specific instructions as needed.
 
 **Tradeoff:** These guidelines bias toward caution over speed. For trivial tasks, use judgment.
