@@ -31,7 +31,11 @@ install and run: https://github.com/kestermcullough/pi-socket-sfw
 
 Browser-harness: https://github.com/browser-use/browser-harness
 
-### LLM Wiki skill?
+### QMD
+
+tobi/QMD pretty nice for text search (only reads markdown files)
+
+### LLM Wiki skill? ala Karpathy
 
 existing? or create?
 
