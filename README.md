@@ -122,6 +122,10 @@ Strong success criteria let you loop independently. Weak criteria ("make it work
 source:https://github.com/multica-ai/andrej-karpathy-skills
 
 
+# Tools
+
+Herdr
+Seshr
 
 
 
