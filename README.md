@@ -2,7 +2,7 @@
 My awesome pi skills list
 
 
-# Extensions (npm)
+# Pi Extensions (npm)
 
 ### Subagents
 
@@ -18,6 +18,12 @@ pi-codex-web-search: [npm:pi-codex-web-search](https://github.com/ayagmar/pi-cod
 Really nice for search, but needs a bit of setup:
 
 pi-web-access: https://github.com/nicobailon/pi-web-access
+
+# My skills and apps
+
+seshr
+
+obsidian flowmap
 
 
 
@@ -38,6 +44,10 @@ tobi/QMD pretty nice for text search (only reads markdown files)
 ### LLM Wiki skill? ala Karpathy
 
 existing? or create?
+
+### Cursor nuclear code deslopify review
+
+https://github.com/cursor/plugins/tree/main/cursor-team-kit/skills/thermo-nuclear-code-quality-review
 
 ### Tufte skill but actually Bertin skill
 
